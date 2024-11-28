@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/skelly/w/5k3lly/art/fonts'
+let g:netrw_dirhist_2='/home/skelly/w/kelly-wms/docker/git-server-docker/examples'
+let g:netrw_dirhist_1='/home/skelly/w/kelly-wms/docker/git-server-docker'
+let g:netrw_dirhist_0='/home/skelly/w/kelly-wms/backend/johndee/api'
+let g:netrw_dirhist_9='/home/skelly/w/kelly-wms/frontend/bangle/src/app/model'
+let g:netrw_dirhist_8='/home/skelly/w/kelly-wms/frontend/bangle/src/app/model-controls'
+let g:netrw_dirhist_7='/home/skelly/w/kelly-wms/frontend/bangle/src/app'
+let g:netrw_dirhist_6='/home/skelly/w/kelly-wms/frontend/bangle/src'
+let g:netrw_dirhist_5='/home/skelly/w/kelly-wms/frontend/bangle'
+let g:netrw_dirhist_4='/home/skelly/w/kelly-wms/backend/api'
